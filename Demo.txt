@@ -4,3 +4,9 @@ This is my first file.
 Now i'm leraning about git and github.
 Somewhat its interesting and easy to collabarate with it.
 In end, will provide end note about git.
+
+
+
+
+Thank you,
+End description in sub branch will merge with main branch(this).
