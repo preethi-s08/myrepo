@@ -5,8 +5,16 @@ Now i'm leraning about git and github.
 Somewhat its interesting and easy to collabarate with it.
 In end, will provide end note about git.
 
+
 Learning to create new branch.
 
 Easy to learn and work.
 For beginners, who wish to learn git can start their journey with telusko.
 Best channel teaches well.
+
+
+
+
+Thank you,
+End description in sub branch will merge with main branch(this).
+
